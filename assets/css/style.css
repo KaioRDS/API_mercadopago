@@ -1,0 +1,61 @@
+.head-loja{
+    padding: 10px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.produtos{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.produto-card{
+    width: 100%;
+    background-color: white;
+    padding: 15px;
+    margin-right: 10px;
+}
+#descricao{
+    font-size: 20px;
+    word-break: break-all;
+}
+#botoes-action{
+    font-size: 20px;
+}
+#botoes-action button{
+   margin: 0 20px 20px 0;
+   padding: 15px;
+   border-radius: 20px;
+   background-color: blue;
+   color: white;
+}
+.comprarProduto{
+    width: 100%;
+    font-size: 25px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.cadastroHead{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.formAddProduto p{
+    font-size: 25px;
+    margin-bottom: 5px;
+    padding: 5px 5px 0 0 ;
+    font-weight: normal;
+
+}.formAddProduto input{
+    font-weight: normal;
+    width: 70%;
+    height: 30px;
+    padding: 5px;
+}
+.teste1{
+    
+    align-items: center;
+}
+.teste2{
+    text-align: center;
+}

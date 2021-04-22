@@ -1,0 +1,10 @@
+{
+    "require":{
+        "mercadopago/dx-php": "*"
+    },
+    "autoload":{
+        "psr-4": {
+            "Src\\Class\\": "src/class/"
+        }
+    }
+}
