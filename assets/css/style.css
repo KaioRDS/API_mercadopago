@@ -52,6 +52,13 @@
     height: 30px;
     padding: 5px;
 }
+.adicionarProduto{
+    line-height: 100%;
+    font-size: 20px;
+    background-color: blue;
+    border-radius: 30px;
+    color: white;
+}
 .teste1{
     
     align-items: center;
